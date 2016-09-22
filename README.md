@@ -111,9 +111,7 @@ Garde du corps :
 •	Vous n’avez pas le droit de participer aux activités d’une Mafia ou d’un Gang et d'assurer la protection d’un de ses membres.
 •	
 
-Chauffeur de bus :
 
-•	Vous devez suivre votre parcours et ne pas vous arrêter à la demande des joueurs.
 Chauffeur de taxi :
 
 •	Il vous est strictement interdit de refuser de transporter une personne sauf si celle-ci est agressive ou porte une arme.
